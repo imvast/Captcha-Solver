@@ -19,4 +19,4 @@
 
 ---
 
-star for release -> releasing early in my discord server @ https://discord.gg/2HQE8sr8s7
+> star for release -> releasing early in my discord server @ https://discord.gg/2HQE8sr8s7
