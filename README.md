@@ -1,7 +1,7 @@
 # Captcha-Solver
-> Captcha solver supporting multiple captcha types
+**Captcha solver supporting multiple captcha types**
 
-> **Note** I am starting a new project that will be a public to use api for captcha solving
+**I am starting a new project that will be a public to use api for captcha solving**
 
 
 
