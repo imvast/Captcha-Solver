@@ -1,8 +1,15 @@
 # Captcha-Solver
 Captcha solver supporting multiple captcha types
 
-### INFO
-I am starting a new project that will be a public to use api for captcha solving, currently I have the following working:
+## INFO
+
+> **Note** I am starting a new project that will be a public to use api for captcha solving
+
+
+
+## Captchas
+
+**Currently I have the following implemented with a ✅ and ❌ showing the current status of them each**
 
 ✅ OCR
 
@@ -10,7 +17,7 @@ I am starting a new project that will be a public to use api for captcha solving
 
 ❌ ReCaptcha vALL
 
-❓ add a comment on the suggestions /issue with what other captchas i should add
+❓ add a comment on the pinned suggestion in /issue with what other captchas i should add
 
 ---
 
