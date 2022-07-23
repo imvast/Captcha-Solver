@@ -15,7 +15,7 @@
 
 ❌ ReCaptcha vALL
 
-✅ FunCaptcha
+✅ FunCaptcha (ArkoseLabs)
 
 ❓ add a comment on the pinned suggestion in /issue with what other captchas i should add
 
