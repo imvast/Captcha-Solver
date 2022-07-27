@@ -11,7 +11,7 @@
 
 ✅ OCR
 
-❌ hCaptcha
+✅ hCaptcha
 
 ❌ ReCaptcha vALL
 
